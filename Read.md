@@ -37,13 +37,7 @@ A full-stack stock price prediction web application with Python backend and Reac
 - `HUGGINGFACE_API_KEY` - For ML predictions
 
 ## Running Locally
-- Backend runs on port 5000
+- Backend runs on port 10000
 - Frontend runs on port 5173 (proxies to backend)
 - Use `concurrently` or run in separate terminals
 
-## Recent Changes
-- Initial project setup
-- Created full backend API with stock data, predictions, analysis endpoints
-- Created professional React frontend with charts and data visualization
-- Added Render deployment configuration
-- Added comprehensive README with deployment guide
